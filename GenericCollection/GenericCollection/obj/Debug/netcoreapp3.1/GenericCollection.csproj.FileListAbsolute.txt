@@ -1,0 +1,13 @@
+D:\Aztu-P202\GenericCollection\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.exe
+D:\Aztu-P202\GenericCollection\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.deps.json
+D:\Aztu-P202\GenericCollection\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.runtimeconfig.json
+D:\Aztu-P202\GenericCollection\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.runtimeconfig.dev.json
+D:\Aztu-P202\GenericCollection\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.dll
+D:\Aztu-P202\GenericCollection\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.pdb
+D:\Aztu-P202\GenericCollection\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.csprojAssemblyReference.cache
+D:\Aztu-P202\GenericCollection\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.AssemblyInfoInputs.cache
+D:\Aztu-P202\GenericCollection\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.AssemblyInfo.cs
+D:\Aztu-P202\GenericCollection\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.csproj.CoreCompileInputs.cache
+D:\Aztu-P202\GenericCollection\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.dll
+D:\Aztu-P202\GenericCollection\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.pdb
+D:\Aztu-P202\GenericCollection\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.genruntimeconfig.cache
